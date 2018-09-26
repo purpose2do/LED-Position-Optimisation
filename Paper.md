@@ -1,9 +1,8 @@
 ---
-title: 'Fidgit: An ungodly union of GitHub and figshare'
+title: 'Optimising Light Source Positioning for Even and Intense Illumination'
 tags:
-  - example
-  - tags
-  - for the paper
+  - Even Illumination
+  - Modeling Illumination
 authors:
  - name: Niamh Mac Fhionnlaoich 
    orcid: 0000-0001-8459-9994
@@ -26,5 +25,9 @@ bibliography: LED_paper.bib
 This is a proof of concept integration between a GitHub [@GitHub] repo and figshare [@figshare] in an effort to get a DOI for a GitHub repository. When a repository is tagged for release on GitHub, Fidgit [@Fidgit] will import the release into figshare thus giving the code bundle a DOI. In a somewhat meta fashion, Fidgit is publishing itself to figshare with DOI 'https://doi.org/10.6084/m9.figshare.828487' [@figshare_archive].
 
 -![Fidgit deposited in figshare.](figshare_article.png)
+
+# Acknowledgements
+
+N.M.F. acknowledges the EPSRC for support under a Doctoral Training Partnership (EP/M507970/1).
 
 # References
