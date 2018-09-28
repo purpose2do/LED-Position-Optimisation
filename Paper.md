@@ -27,10 +27,8 @@ The range of values for both the x, y, and z positions of the light source relat
  In summary, this software can screen large numbers of possible variable values for the positioning of the light sources for total flux and uniformity.  This will allow a user to design an optimised light array for their imaging system without requiring numerous, time-consuming experimental measurements.  
 
 
--![Fidgit deposited in figshare.](Figure1.pdf)
+-![](Figure1.png)
 
 # Acknowledgements
 
 N.M.F. acknowledges the EPSRC for support under a Doctoral Training Partnership (EP/M507970/1).
-
-# References
