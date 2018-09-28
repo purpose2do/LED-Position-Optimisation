@@ -28,6 +28,7 @@ The range of values for both the x, y, and z positions of the light source relat
 
 
 ![](Figure1.png)
+**Figure 1:**  Schematic of light source position and illumination profile. (a) Schematic of placement of light source relative to the illuminated area with all relevant variables. (b) Illumination profile for a single light source denoted by the circle on the bottom left of the plot. (c) Illumination profile for a system with four active light sources denoted by the black circles on the plot.  The details of the variable values for these light sources are summarized in a legend on the bottom left of the plot.  
 
 # Acknowledgements
 
