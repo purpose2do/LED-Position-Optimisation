@@ -40,7 +40,6 @@ In summary, this software can screen large numbers of possible variable values f
 ![](Figure2.png)
 **Figure 2:**  Demonstration of convex hull based data filtering.  **a)** The total flux is plotted against the standard deviation and the modified convex hull of the data set is shown in blue.  **b)** A total flux tolerance of 0.05 and a standard deviation tolerance of 10<sup>-6</sup> was applied and the selected data points are shown in blue. 
 
-
 # Acknowledgements
 
 N.M.F. acknowledges the EPSRC for support under a Doctoral Training Partnership (EP/M507970/1).
