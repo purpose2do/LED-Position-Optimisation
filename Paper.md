@@ -33,7 +33,7 @@ In summary, this software can screen large numbers of possible variable values f
 **Figure 1:**  Schematic of light source position and illumination profile. **a)** Schematic of placement of light source relative to the illuminated area with all relevant variables. **b)** Illumination profile for a single light source denoted by the circle on the bottom left of the plot. **c)** Illumination profile for a system with four active light sources denoted by the black circles on the plot.  The details of the variable values for these light sources are summarized in a legend on the bottom left of the plot. 
 
 ![](Figure2-2.png)
-**Figure 2:**  Demonstration of convex hull based data filtering.  **a)** The figures of merit, total flux  and illumination variation (standard deviation), define the axes against which every parameter-combination is mapped (forming a cloud). The modified convex hull (boundary) of the candidate population is shown in blue.  **b)** A total flux tolerance of 0.05 and a standard deviation tolerance of 10<sup>-6 was applied and the selected data points are shown in blue. 
+**Figure 2:**  Demonstration of convex hull based data filtering.  **a)** The figures of merit, total flux  and illumination variation (standard deviation), define the axes against which every parameter-combination is mapped (forming a cloud). The modified convex hull (boundary) of the candidate population is shown in blue.  **b)** A total flux tolerance of 0.05 and a standard deviation tolerance of 10<sup>-6/ was applied and the selected data points are shown in blue. 
 
 # Acknowledgements
 
